@@ -77,7 +77,10 @@ route 101.0.0.0 255.128.0.0 net_gateway 5
 route 101.128.0.0 255.224.0.0 net_gateway 5
 route 101.192.0.0 255.240.0.0 net_gateway 5
 route 101.224.0.0 255.224.0.0 net_gateway 5
-route 103.0.0.0 255.0.0.0 net_gateway 5
+route 103.0.0.0 255.224.0.0 net_gateway 5
+route 103.32.0.0 255.240.0.0 net_gateway 5
+route 103.216.0.0 255.248.0.0 net_gateway 5
+route 103.224.0.0 255.240.0.0 net_gateway 5
 route 106.0.0.0 255.128.0.0 net_gateway 5
 route 106.224.0.0 255.240.0.0 net_gateway 5
 route 110.0.0.0 255.128.0.0 net_gateway 5
