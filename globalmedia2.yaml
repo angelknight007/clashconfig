@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,movetv.com
   - DOMAIN-SUFFIX,sling.com
   - DOMAIN-SUFFIX,slinginternational.com
+  - DOMAIN-KEYWORD,sling
   
 # NAME: ParamountPlus
   - DOMAIN,cbsi.live.ott.irdeto.com
@@ -37,6 +38,12 @@ payload:
   - DOMAIN-SUFFIX,foxdcg.com
   - DOMAIN-SUFFIX,theplatform.com
   - DOMAIN-SUFFIX,uplynk.com
+  
+# NAME: FUBOTV
+  - DOMAIN-SUFFIX,fubo.tv,GlobalMedia
+  - DOMAIN-SUFFIX,bleacherreport.com,GlobalMedia
+  - DOMAIN-KEYWORD,fubotv,GlobalMedia
+  - DOMAIN-KEYWORD,fubo-marketing,GlobalMedia  
   
 # NAME: CNBC
   - DOMAIN-SUFFIX,cnbc.com
