@@ -40,10 +40,10 @@ payload:
   - DOMAIN-SUFFIX,uplynk.com
   
 # NAME: FUBOTV
-  - DOMAIN-SUFFIX,fubo.tv,GlobalMedia
-  - DOMAIN-SUFFIX,bleacherreport.com,GlobalMedia
-  - DOMAIN-KEYWORD,fubotv,GlobalMedia
-  - DOMAIN-KEYWORD,fubo-marketing,GlobalMedia  
+  - DOMAIN-SUFFIX,fubo.tv
+  - DOMAIN-SUFFIX,bleacherreport.com
+  - DOMAIN-KEYWORD,fubotv
+  - DOMAIN-KEYWORD,fubo-marketing
   
 # NAME: CNBC
   - DOMAIN-SUFFIX,cnbc.com
