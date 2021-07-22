@@ -44,6 +44,9 @@ payload:
   - DOMAIN-SUFFIX,nbcudigitaladops.com
   - DOMAIN-SUFFIX,nbcuni.com
 
+# NAME: FOX NOW
+  - DOMAIN-SUFFIX,peacocktv.com
+
 # NAME: CNN
   - DOMAIN-SUFFIX,cnn.com
   - DOMAIN-SUFFIX,cnn.io
