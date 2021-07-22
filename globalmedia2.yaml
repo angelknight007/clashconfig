@@ -46,6 +46,8 @@ payload:
 
 # NAME: PEACOCK
   - DOMAIN-SUFFIX,peacocktv.com
+  - DOMAIN-SUFFIX,mparticle.com
+  - DOMAIN-SUFFIX,newrelic.com
 
 # NAME: CNN
   - DOMAIN-SUFFIX,cnn.com
