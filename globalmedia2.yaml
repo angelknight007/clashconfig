@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,cedexis-test.com
   - DOMAIN-SUFFIX,citrix-itm-test.com
   - DOMAIN-SUFFIX,mncdn.com
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,bitgravity.com
   
 # NAME: Espn
   - DOMAIN-SUFFIX,espn.com
