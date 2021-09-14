@@ -20,6 +20,11 @@ payload:
   - DOMAIN-SUFFIX,cbsig.net
   - DOMAIN-SUFFIX,cbsstatic.com
   - DOMAIN-SUFFIX,siteintercept.qualtrics.com
+  - DOMAIN-SUFFIX,mtvnservices.com
+  - DOMAIN-SUFFIX,showtime.com
+  - DOMAIN-SUFFIX,cedexis-test.com
+  - DOMAIN-SUFFIX,citrix-itm-test.com
+  - DOMAIN-SUFFIX,mncdn.com
   
 # NAME: Espn
   - DOMAIN-SUFFIX,espn.com
