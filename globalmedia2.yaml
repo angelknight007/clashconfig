@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,cookielaw.org
   - DOMAIN-SUFFIX,bitgravity.com
   - DOMAIN-SUFFIX,kochava.com
+  - DOMAIN-SUFFIX,appspot.com
   
 # NAME: Espn
   - DOMAIN-SUFFIX,espn.com
