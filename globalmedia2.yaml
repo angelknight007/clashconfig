@@ -6,7 +6,15 @@ payload:
   - DOMAIN-SUFFIX,sling.com
   - DOMAIN-SUFFIX,slinginternational.com
   - DOMAIN-KEYWORD,sling
-  
+
+# NAME: Tivo
+  - DOMAIN-SUFFIX,tivo.com
+  - DOMAIN-SUFFIX,tivoservice.com
+  - DOMAIN-SUFFIX,evodevicemanager.com
+  - DOMAIN-SUFFIX,pluto.tv
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,adsrvr.org
+
 # NAME: ParamountPlus
   - DOMAIN,cbsi.live.ott.irdeto.com
   - DOMAIN,cbsplaylistserver.aws.syncbak.com
