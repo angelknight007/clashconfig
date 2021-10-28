@@ -1,6 +1,6 @@
-HOST-SUFFIX,hk,🇭🇰 香港节点
-HOST-SUFFIX,jp,🇯🇵 日本节点
-HOST-SUFFIX,co.jp,🇯🇵 日本节点
-HOST-SUFFIX,sg,🇸🇬 狮城节点
-HOST-SUFFIX,tw,🇨🇳 台湾节点
-HOST-SUFFIX,us,🇺🇲 美国节点
+HOST-SUFFIX, hk, 🇭🇰 香港节点
+HOST-SUFFIX, jp, 🇯🇵 日本节点
+HOST-SUFFIX, co.jp, 🇯🇵 日本节点
+HOST-SUFFIX, sg, 🇸🇬 狮城节点
+HOST-SUFFIX, tw, 🇨🇳 台湾节点
+HOST-SUFFIX, us, 🇺🇲 美国节点
