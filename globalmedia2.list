@@ -1,141 +1,141 @@
 # NAME: Sling
-DOMAIN-SUFFIX,dishworld.com
-DOMAIN-SUFFIX,movenetworks.com
-DOMAIN-SUFFIX,movetv.com
-DOMAIN-SUFFIX,sling.com
-DOMAIN-SUFFIX,slinginternational.com
-DOMAIN-KEYWORD,sling
+HOST-SUFFIX,dishworld.com,🌍 国外媒体
+HOST-SUFFIX,movenetworks.com,🌍 国外媒体
+HOST-SUFFIX,movetv.com,🌍 国外媒体
+HOST-SUFFIX,sling.com,🌍 国外媒体
+HOST-SUFFIX,slinginternational.com,🌍 国外媒体
+HOST-KEYWORD,sling,🌍 国外媒体
 
 # NAME: Tivo
-DOMAIN-SUFFIX,tivo.com
-DOMAIN-SUFFIX,tivoservice.com
-DOMAIN-SUFFIX,evodevicemanager.com
-DOMAIN-SUFFIX,pluto.tv
-DOMAIN-SUFFIX,appsflyer.com
-DOMAIN-SUFFIX,adsrvr.org
+HOST-SUFFIX,tivo.com,🌍 国外媒体
+HOST-SUFFIX,tivoservice.com,🌍 国外媒体
+HOST-SUFFIX,evodevicemanager.com,🌍 国外媒体
+HOST-SUFFIX,pluto.tv,🌍 国外媒体
+HOST-SUFFIX,appsflyer.com,🌍 国外媒体
+HOST-SUFFIX,adsrvr.org,🌍 国外媒体
 
 # NAME: ParamountPlus
-DOMAIN,cbsi.live.ott.irdeto.com
-DOMAIN,cbsplaylistserver.aws.syncbak.com
-DOMAIN,cbsservice.aws.syncbak.com
-DOMAIN,link.theplatform.com
-DOMAIN-SUFFIX,cbsaavideo.com
-DOMAIN-SUFFIX,cbsi.com
-DOMAIN-SUFFIX,cbsivideo.com
-DOMAIN-SUFFIX,paramountplus.com
-DOMAIN-SUFFIX,pplusstatic.com
-DOMAIN-SUFFIX,cbsig.net
-DOMAIN-SUFFIX,cbsstatic.com
-DOMAIN-SUFFIX,siteintercept.qualtrics.com
-DOMAIN-SUFFIX,mtvnservices.com
-DOMAIN-SUFFIX,showtime.com
-DOMAIN-SUFFIX,cedexis-test.com
-DOMAIN-SUFFIX,citrix-itm-test.com
-DOMAIN-SUFFIX,mncdn.com
-DOMAIN-SUFFIX,cookielaw.org
-DOMAIN-SUFFIX,bitgravity.com
-DOMAIN-SUFFIX,kochava.com
-DOMAIN-SUFFIX,appspot.com
+HOST,cbsi.live.ott.irdeto.com,🌍 国外媒体
+HOST,cbsplaylistserver.aws.syncbak.com,🌍 国外媒体
+HOST,cbsservice.aws.syncbak.com,🌍 国外媒体
+HOST,link.theplatform.com,🌍 国外媒体
+HOST-SUFFIX,cbsaavideo.com,🌍 国外媒体
+HOST-SUFFIX,cbsi.com,🌍 国外媒体
+HOST-SUFFIX,cbsivideo.com,🌍 国外媒体
+HOST-SUFFIX,paramountplus.com,🌍 国外媒体
+HOST-SUFFIX,pplusstatic.com,🌍 国外媒体
+HOST-SUFFIX,cbsig.net,🌍 国外媒体
+HOST-SUFFIX,cbsstatic.com,🌍 国外媒体
+HOST-SUFFIX,siteintercept.qualtrics.com,🌍 国外媒体
+HOST-SUFFIX,mtvnservices.com,🌍 国外媒体
+HOST-SUFFIX,showtime.com,🌍 国外媒体
+HOST-SUFFIX,cedexis-test.com,🌍 国外媒体
+HOST-SUFFIX,citrix-itm-test.com,🌍 国外媒体
+HOST-SUFFIX,mncdn.com,🌍 国外媒体
+HOST-SUFFIX,cookielaw.org,🌍 国外媒体
+HOST-SUFFIX,bitgravity.com,🌍 国外媒体
+HOST-SUFFIX,kochava.com,🌍 国外媒体
+HOST-SUFFIX,appspot.com,🌍 国外媒体
   
 # NAME: Espn
-DOMAIN-SUFFIX,espn.com
-DOMAIN-SUFFIX,espn.net
-DOMAIN-SUFFIX,espncdn.com
-DOMAIN-SUFFIX,espnqa.com
-DOMAIN-SUFFIX,watchespn.com
+HOST-SUFFIX,espn.com,🌍 国外媒体
+HOST-SUFFIX,espn.net,🌍 国外媒体
+HOST-SUFFIX,espncdn.com,🌍 国外媒体
+HOST-SUFFIX,espnqa.com,🌍 国外媒体
+HOST-SUFFIX,watchespn.com,🌍 国外媒体
   
 # NAME: FOXPlus
-DOMAIN,cdn-fox-networks-group-green.akamaized.net
-DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
-DOMAIN,foxsports01-i.akamaihd.net
-DOMAIN,foxsports02-i.akamaihd.net
-DOMAIN,foxsports03-i.akamaihd.net
-DOMAIN,staticasiafox.akamaized.net
-DOMAIN-SUFFIX,foxplus.com
+DOMAIN,cdn-fox-networks-group-green.akamaized.net,🌍 国外媒体
+DOMAIN,d3cv4a9a9wh0bt.cloudfront.net,🌍 国外媒体
+DOMAIN,foxsports01-i.akamaihd.net,🌍 国外媒体
+DOMAIN,foxsports02-i.akamaihd.net,🌍 国外媒体
+DOMAIN,foxsports03-i.akamaihd.net,🌍 国外媒体
+DOMAIN,staticasiafox.akamaized.net,🌍 国外媒体
+HOST-SUFFIX,foxplus.com,🌍 国外媒体
   
 # NAME: FOX NOW
-DOMAIN-SUFFIX,fox.com
-DOMAIN-SUFFIX,foxdcg.com
-DOMAIN-SUFFIX,theplatform.com
-DOMAIN-SUFFIX,uplynk.com
+HOST-SUFFIX,fox.com,🌍 国外媒体
+HOST-SUFFIX,foxdcg.com,🌍 国外媒体
+HOST-SUFFIX,theplatform.com,🌍 国外媒体
+HOST-SUFFIX,uplynk.com,🌍 国外媒体
   
 # NAME: FUBOTV
-DOMAIN-SUFFIX,fubo.tv
-DOMAIN-SUFFIX,bleacherreport.com
-DOMAIN-KEYWORD,fubotv
-DOMAIN-KEYWORD,fubo-marketing
+HOST-SUFFIX,fubo.tv,🌍 国外媒体
+HOST-SUFFIX,bleacherreport.com,🌍 国外媒体
+HOST-KEYWORD,fubotv,🌍 国外媒体
+HOST-KEYWORD,fubo-marketing,🌍 国外媒体
   
 # NAME: CNBC
-DOMAIN-SUFFIX,cnbc.com
-DOMAIN-SUFFIX,cnbcfm.com
-DOMAIN-SUFFIX,nbcudigitaladops.com
-DOMAIN-SUFFIX,nbcuni.com
+HOST-SUFFIX,cnbc.com,🌍 国外媒体
+HOST-SUFFIX,cnbcfm.com,🌍 国外媒体
+HOST-SUFFIX,nbcudigitaladops.com,🌍 国外媒体
+HOST-SUFFIX,nbcuni.com,🌍 国外媒体
 
 # NAME: PEACOCK
-DOMAIN-SUFFIX,peacocktv.com
-DOMAIN-SUFFIX,mparticle.com
-DOMAIN-SUFFIX,newrelic.com
+HOST-SUFFIX,peacocktv.com,🌍 国外媒体
+HOST-SUFFIX,mparticle.com,🌍 国外媒体
+HOST-SUFFIX,newrelic.com,🌍 国外媒体
 
 # NAME: CNN
-DOMAIN-SUFFIX,cnn.com
-DOMAIN-SUFFIX,cnn.io
-DOMAIN-SUFFIX,cnn.it
-DOMAIN-SUFFIX,cnnarabic.com
-DOMAIN-SUFFIX,cnnlabs.com
-DOMAIN-SUFFIX,cnnmoney.ch
+HOST-SUFFIX,cnn.com,🌍 国外媒体
+HOST-SUFFIX,cnn.io,🌍 国外媒体
+HOST-SUFFIX,cnn.it,🌍 国外媒体
+HOST-SUFFIX,cnnarabic.com,🌍 国外媒体
+HOST-SUFFIX,cnnlabs.com,🌍 国外媒体
+HOST-SUFFIX,cnnmoney.ch,🌍 国外媒体
 
 # NAME: DAZN
-DOMAIN-SUFFIX,control.kochava.com
-DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
-DOMAIN-SUFFIX,d1sgwhnao7452x.cloudfront.net
-DOMAIN-SUFFIX,dazn-api.com
-DOMAIN-SUFFIX,dazn.com
-DOMAIN-SUFFIX,dazndn.com
-DOMAIN-SUFFIX,dc2-vodhls-perform.secure.footprint.net
-DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
-DOMAIN-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net
-DOMAIN-SUFFIX,dcalivedazn.akamaized.net
-DOMAIN-SUFFIX,dcblivedazn.akamaized.net
-DOMAIN-SUFFIX,indazn.com
-DOMAIN-SUFFIX,indaznlab.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,logx.optimizely.com
-DOMAIN-SUFFIX,s.yimg.jp
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-KEYWORD,voddazn
+HOST-SUFFIX,control.kochava.com,🌍 国外媒体
+HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,🌍 国外媒体
+HOST-SUFFIX,d1sgwhnao7452x.cloudfront.net,🌍 国外媒体
+HOST-SUFFIX,dazn-api.com,🌍 国外媒体
+HOST-SUFFIX,dazn.com,🌍 国外媒体
+HOST-SUFFIX,dazndn.com,🌍 国外媒体
+HOST-SUFFIX,dc2-vodhls-perform.secure.footprint.net,🌍 国外媒体
+HOST-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net,🌍 国外媒体
+HOST-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net,🌍 国外媒体
+HOST-SUFFIX,dcalivedazn.akamaized.net,🌍 国外媒体
+HOST-SUFFIX,dcblivedazn.akamaized.net,🌍 国外媒体
+HOST-SUFFIX,indazn.com,🌍 国外媒体
+HOST-SUFFIX,indaznlab.com,🌍 国外媒体
+HOST-SUFFIX,intercom.io,🌍 国外媒体
+HOST-SUFFIX,logx.optimizely.com,🌍 国外媒体
+HOST-SUFFIX,s.yimg.jp,🌍 国外媒体
+HOST-SUFFIX,sentry.io,🌍 国外媒体
+HOST-KEYWORD,voddazn,🌍 国外媒体
   
 # NAME: QOBUZ
-DOMAIN-SUFFIX,cobeuz.fr
-DOMAIN-SUFFIX,cobuz.fr
-DOMAIN-SUFFIX,cobuzz.fr
-DOMAIN-SUFFIX,kobuz.fr
-DOMAIN-SUFFIX,qobuz.at
-DOMAIN-SUFFIX,qobuz.be
-DOMAIN-SUFFIX,qobuz.biz
-DOMAIN-SUFFIX,qobuz.ca
-DOMAIN-SUFFIX,qobuz.ch
-DOMAIN-SUFFIX,qobuz.co.uk
-DOMAIN-SUFFIX,qobuz.com
-DOMAIN-SUFFIX,qobuz.de
-DOMAIN-SUFFIX,qobuz.eu
-DOMAIN-SUFFIX,qobuz.fi
-DOMAIN-SUFFIX,qobuz.fr
-DOMAIN-SUFFIX,qobuz.gr
-DOMAIN-SUFFIX,qobuz.hk
-DOMAIN-SUFFIX,qobuz.info
-DOMAIN-SUFFIX,qobuz.it
-DOMAIN-SUFFIX,qobuz.lt
-DOMAIN-SUFFIX,qobuz.lu
-DOMAIN-SUFFIX,qobuz.net
-DOMAIN-SUFFIX,qobuz.org
-DOMAIN-SUFFIX,qobuz.pl
-DOMAIN-SUFFIX,qobuz.ro
-DOMAIN-SUFFIX,qobuz.se
-DOMAIN-SUFFIX,qobuz.tv
-DOMAIN-SUFFIX,qobuz.us
-DOMAIN-SUFFIX,quobuz.com
-DOMAIN-SUFFIX,quobuz.fr
-DOMAIN-SUFFIX,static-qobuz.com
-IP-CIDR,52.211.1.180/32
-IP-CIDR,99.81.97.56/32
+HOST-SUFFIX,cobeuz.fr,🌍 国外媒体
+HOST-SUFFIX,cobuz.fr,🌍 国外媒体
+HOST-SUFFIX,cobuzz.fr,🌍 国外媒体
+HOST-SUFFIX,kobuz.fr,🌍 国外媒体
+HOST-SUFFIX,qobuz.at,🌍 国外媒体
+HOST-SUFFIX,qobuz.be,🌍 国外媒体
+HOST-SUFFIX,qobuz.biz,🌍 国外媒体
+HOST-SUFFIX,qobuz.ca,🌍 国外媒体
+HOST-SUFFIX,qobuz.ch,🌍 国外媒体
+HOST-SUFFIX,qobuz.co.uk,🌍 国外媒体
+HOST-SUFFIX,qobuz.com,🌍 国外媒体
+HOST-SUFFIX,qobuz.de,🌍 国外媒体
+HOST-SUFFIX,qobuz.eu,🌍 国外媒体
+HOST-SUFFIX,qobuz.fi,🌍 国外媒体
+HOST-SUFFIX,qobuz.fr,🌍 国外媒体
+HOST-SUFFIX,qobuz.gr,🌍 国外媒体
+HOST-SUFFIX,qobuz.hk,🌍 国外媒体
+HOST-SUFFIX,qobuz.info,🌍 国外媒体
+HOST-SUFFIX,qobuz.it,🌍 国外媒体
+HOST-SUFFIX,qobuz.lt,🌍 国外媒体
+HOST-SUFFIX,qobuz.lu,🌍 国外媒体
+HOST-SUFFIX,qobuz.net,🌍 国外媒体
+HOST-SUFFIX,qobuz.org,🌍 国外媒体
+HOST-SUFFIX,qobuz.pl,🌍 国外媒体
+HOST-SUFFIX,qobuz.ro,🌍 国外媒体
+HOST-SUFFIX,qobuz.se,🌍 国外媒体
+HOST-SUFFIX,qobuz.tv,🌍 国外媒体
+HOST-SUFFIX,qobuz.us,🌍 国外媒体
+HOST-SUFFIX,quobuz.com,🌍 国外媒体
+HOST-SUFFIX,quobuz.fr,🌍 国外媒体
+HOST-SUFFIX,static-qobuz.com,🌍 国外媒体
+IP-CIDR,52.211.1.180/32,🌍 国外媒体
+IP-CIDR,99.81.97.56/32,🌍 国外媒体
   
