@@ -9,4 +9,4 @@ payload:
   - DOMAIN-SUFFIX,emby.men
   - DOMAIN-SUFFIX,embyclub.com
   - DOMAIN-SUFFIX,ssky.me
-  - IP-CIDR,142.54.186.202
+  - IP-CIDR,142.54.186.202/32
