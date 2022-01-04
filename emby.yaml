@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,ssky.me
   - DOMAIN-SUFFIX,aaa.ax
   - IP-CIDR,142.54.186.202/32
+  - IP-CIDR,198.204.247.154/32
