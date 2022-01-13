@@ -83,26 +83,6 @@ HOST-SUFFIX,cnn.it,🌍 国外媒体
 HOST-SUFFIX,cnnarabic.com,🌍 国外媒体
 HOST-SUFFIX,cnnlabs.com,🌍 国外媒体
 HOST-SUFFIX,cnnmoney.ch,🌍 国外媒体
-
-# NAME: DAZN
-HOST-SUFFIX,control.kochava.com,🌍 国外媒体
-HOST-SUFFIX,d151l6v8er5bdm.cloudfront.net,🌍 国外媒体
-HOST-SUFFIX,d1sgwhnao7452x.cloudfront.net,🌍 国外媒体
-HOST-SUFFIX,dazn-api.com,🌍 国外媒体
-HOST-SUFFIX,dazn.com,🌍 国外媒体
-HOST-SUFFIX,dazndn.com,🌍 国外媒体
-HOST-SUFFIX,dc2-vodhls-perform.secure.footprint.net,🌍 国外媒体
-HOST-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net,🌍 国外媒体
-HOST-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net,🌍 国外媒体
-HOST-SUFFIX,dcalivedazn.akamaized.net,🌍 国外媒体
-HOST-SUFFIX,dcblivedazn.akamaized.net,🌍 国外媒体
-HOST-SUFFIX,indazn.com,🌍 国外媒体
-HOST-SUFFIX,indaznlab.com,🌍 国外媒体
-HOST-SUFFIX,intercom.io,🌍 国外媒体
-HOST-SUFFIX,logx.optimizely.com,🌍 国外媒体
-HOST-SUFFIX,s.yimg.jp,🌍 国外媒体
-HOST-SUFFIX,sentry.io,🌍 国外媒体
-HOST-KEYWORD,voddazn,🌍 国外媒体
   
 # NAME: QOBUZ
 HOST-SUFFIX,cobeuz.fr,🌍 国外媒体
