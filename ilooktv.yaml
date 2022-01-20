@@ -1,0 +1,18 @@
+payload:
+  - IP-CIDR,194.59.155.128/25,no-resolve
+  - IP-CIDR,213.183.40.0/24,no-resolve
+  - IP-CIDR,213.183.42.0/24,no-resolve
+  - IP-CIDR,213.183.47.0/24,no-resolve
+  - IP-CIDR,5.182.228.0/24,no-resolve
+  - IP-CIDR,5.182.229.0/25,no-resolve
+  - IP-CIDR,5.182.231.0/24,no-resolve
+  - IP-CIDR,5.188.172.0/25,no-resolve
+  - IP-CIDR,77.72.19.0/25,no-resolve
+  - IP-CIDR,77.72.23.192/26,no-resolve
+  - IP-CIDR,92.119.88.0/25,no-resolve
+  - IP-CIDR,92.119.89.128/25,no-resolve
+  - IP-CIDR,92.189.56.128/26,no-resolve
+  - DOMAIN-SUFFIX,akciatv.ru
+  - DOMAIN-SUFFIX,russtv.net
+  - DOMAIN-SUFFIX,zatikov.net
+  - DOMAIN-KEYWORD,russtv
