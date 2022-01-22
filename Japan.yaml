@@ -38,3 +38,10 @@ payload:
   - DOMAIN-SUFFIX,hulu.jp
   - DOMAIN-SUFFIX,streaks.jp
   - DOMAIN-SUFFIX,yb.uncn.jp
+#others
+  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,yahoo.co.jp
+  - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN-SUFFIX,fc2.com
+  - DOMAIN-SUFFIX,prod.hjholdings.tv
