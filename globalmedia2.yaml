@@ -37,13 +37,10 @@ payload:
   - DOMAIN-SUFFIX,bitgravity.com
   - DOMAIN-SUFFIX,kochava.com
   - DOMAIN-SUFFIX,appspot.com
-  
-# NAME: Espn
-  - DOMAIN-SUFFIX,espn.com
-  - DOMAIN-SUFFIX,espn.net
-  - DOMAIN-SUFFIX,espncdn.com
-  - DOMAIN-SUFFIX,espnqa.com
-  - DOMAIN-SUFFIX,watchespn.com
+  - DOMAIN,link.theplatform.com
+  - DOMAIN,cbsi.live.ott.irdeto.com
+  - DOMAIN,cbsservice.aws.syncbak.com
+  - DOMAIN,cbsplaylistserver.aws.syncbak.com
   
 # NAME: FOXPlus
   - DOMAIN,cdn-fox-networks-group-green.akamaized.net
