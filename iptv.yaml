@@ -1,5 +1,6 @@
 payload:
-  - IP-CIDR,194.59.155.0/24,no-resolve
+#ilook.tv
+- IP-CIDR,194.59.155.0/24,no-resolve
   - IP-CIDR,213.183.40.0/24,no-resolve
   - IP-CIDR,213.183.42.0/24,no-resolve
   - IP-CIDR,213.183.47.0/24,no-resolve
@@ -16,3 +17,6 @@ payload:
   - DOMAIN-SUFFIX,russtv.net
   - DOMAIN-SUFFIX,zatikov.net
   - DOMAIN-KEYWORD,russtv
+#bil.best
+  - DOMAIN-SUFFIX,ultra-tv.online
+  - IP-CIDR,62.149.6.21/32,no-resolve
