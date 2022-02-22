@@ -1,6 +1,6 @@
 payload:
 #ilook.tv
-- IP-CIDR,194.59.155.0/24,no-resolve
+  - IP-CIDR,194.59.155.0/24,no-resolve
   - IP-CIDR,213.183.40.0/24,no-resolve
   - IP-CIDR,213.183.42.0/24,no-resolve
   - IP-CIDR,213.183.47.0/24,no-resolve
@@ -20,3 +20,13 @@ payload:
 #bil.best
   - DOMAIN-SUFFIX,ultra-tv.online
   - IP-CIDR,62.149.6.21/32,no-resolve
+#stalker
+  - IP-CIDR,188.93.236.0/24,no-resolve
+  - IP-CIDR,188.93.237.0/24,no-resolve
+  - IP-CIDR,185.236.230.0/24,no-resolve
+  - IP-CIDR,185.191.126.0/24,no-resolve
+  - IP-CIDR,45.86.190.0/24,no-resolve
+  - IP-CIDR,45.86.191.0/24,no-resolve
+  - IP-CIDR,89.187.189.0/24,no-resolve
+  - IP-CIDR,62.210.0.0/16,no-resolve
+  - IP-CIDR,185.180.14.0/24,no-resolve
