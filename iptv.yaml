@@ -23,6 +23,8 @@ payload:
 #tv.team
   - DOMAIN-SUFFIX,troya.tv
   - DOMAIN-SUFFIX,tv.team
+#lightiptv
+  - DOMAIN-SUFFIX,pp.ru
 #stalker
   - IP-CIDR,188.93.236.0/24,no-resolve
   - IP-CIDR,188.93.237.0/24,no-resolve
