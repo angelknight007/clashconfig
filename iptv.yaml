@@ -20,6 +20,9 @@ payload:
 #bil.best
   - DOMAIN-SUFFIX,ultra-tv.online
   - IP-CIDR,62.149.6.21/32,no-resolve
+#tv.team
+  - DOMAIN-SUFFIX,troya.tv
+  - DOMAIN-SUFFIX,tv.team
 #stalker
   - IP-CIDR,188.93.236.0/24,no-resolve
   - IP-CIDR,188.93.237.0/24,no-resolve
