@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,qhres.com
+  - IP-CIDR,144.21.57.43/32,no-resolve
   - DOMAIN-SUFFIX,qhimg.com
   - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,amap.com
