@@ -18,7 +18,7 @@ HOST-SUFFIX,zatikov.net,📼 IPTV
 HOST-KEYWORD,russtv,📼 IPTV
 #bil.best
 HOST-SUFFIX,ultra-tv.online,📼 IPTV
-IP-CIDR,62.149.6.21/32,no-resolve,📼 IPTV
+IP-CIDR,62.149.6.21/32,📼 IPTV
 #tv.team
 HOST-SUFFIX,troya.tv,📼 IPTV
 HOST-SUFFIX,tv.team,📼 IPTV
