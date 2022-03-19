@@ -24,3 +24,14 @@ DOMAIN-SUFFIX,troya.tv
 DOMAIN-SUFFIX,tv.team
 #lightiptv
 DOMAIN-SUFFIX,pp.ru
+#others
+IP-CIDR,188.93.236.0/24,no-resolve
+IP-CIDR,188.93.237.0/24,no-resolve
+IP-CIDR,185.236.230.0/24,no-resolve
+IP-CIDR,185.191.0.0/16,no-resolve
+IP-CIDR,185.93.2.0/24,no-resolve
+IP-CIDR,45.86.190.0/24,no-resolve
+IP-CIDR,45.86.191.0/24,no-resolve
+IP-CIDR,89.187.189.0/24,no-resolve
+IP-CIDR,62.210.0.0/16,no-resolve
+IP-CIDR,185.180.14.0/24,no-resolve
