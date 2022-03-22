@@ -1,0 +1,68 @@
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,TNT
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/TNT/playlist.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,ABC
+https://d2tj0mi9jdso2q.cloudfront.net/hls/ABC/playlist.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,ESPN
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/espn/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,NBA TV
+https://d2tj0mi9jdso2q.cloudfront.net/hls/nbatv/chunks.m3u8?SBN
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,公鹿
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/bucks/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,太阳
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/suns/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,魔术
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/magic/chunks.m3u8?SBN
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,黄蜂
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/hornets/chunks.m3u8?SBN
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,金块
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/nuggets/chunks.m3u8?SBN
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,独行侠
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/mavericks/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,骑士
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/cavaliers/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,篮网
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/nets/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,公牛
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/bulls/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,马刺
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/spurs/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,拓荒者
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/blazers/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,76人
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/76ers/chunks.m3u8?SBN
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,鹰队
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/hawks/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,热火
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/heat/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,塞尔特人
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/celtics/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,巫师
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/wizards/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,速龙
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/raptors/chunks.m3u8 
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,勇士
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/warriors/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,尼克斯
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/knicks/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,遛马
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pacers/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,活塞
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pistons/chunks.m3u8 
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,灰熊
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/grizzlies/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,爵士
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/jazz/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,木狼
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/timberwolves/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,快艇
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/clippers/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,湖人
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/lakers/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,鹈鹕
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/pelicans/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,雷霆
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/thunder/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,国王
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/kings/chunks.m3u8
+#EXTINF:-1 logo="" group-title="NBA PASS仅直播时有效" ,火箭
+https://d2tj0mi9jdso2q.cloudfront.net:443/hls/rockets/chunks.m3u8
