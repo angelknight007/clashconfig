@@ -35,3 +35,6 @@ IP-CIDR,45.86.191.0/24,no-resolve
 IP-CIDR,89.187.189.0/24,no-resolve
 IP-CIDR,62.210.0.0/16,no-resolve
 IP-CIDR,185.180.14.0/24,no-resolve
+DOMAIN-SUFFIX,overboxtv.com
+DOMAIN-SUFFIX,maltaip.com
+DOMAIN-SUFFIX,siggiztv.com
