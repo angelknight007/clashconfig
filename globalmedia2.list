@@ -75,6 +75,12 @@ HOST-SUFFIX,nbcuni.com,🌍 国外媒体
 HOST-SUFFIX,peacocktv.com,🌍 国外媒体
 HOST-SUFFIX,mparticle.com,🌍 国外媒体
 HOST-SUFFIX,newrelic.com,🌍 国外媒体
+HOST-SUFFIX,dsct.akamai.net,🌍 国外媒体
+HOST-SUFFIX,digitalcertvalidation.com,🌍 国外媒体
+HOST-SUFFIX,dscw105.akamai.net,🌍 国外媒体
+HOST-KEYWORD,nbcstreaming,🌍 国外媒体
+HOST-KEYWORD,peacockvod,🌍 国外媒体
+HOST-KEYWORD,peacocktv,🌍 国外媒体
 
 # NAME: CNN
 HOST-SUFFIX,cnn.com,🌍 国外媒体
