@@ -79,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,dscw105.akamai.net
   - DOMAIN-KEYWORD,nbcstreaming
   - DOMAIN-KEYWORD,peacockvod
+  - DOMAIN-KEYWORD,peacocktv
 
 # NAME: CNN
   - DOMAIN-SUFFIX,cnn.com
