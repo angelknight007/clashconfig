@@ -73,6 +73,12 @@ payload:
   - DOMAIN-SUFFIX,peacocktv.com
   - DOMAIN-SUFFIX,mparticle.com
   - DOMAIN-SUFFIX,newrelic.com
+  - DOMAIN-SUFFIX,dsct.akamai.net
+  - DOMAIN-SUFFIX,omtrdc.net
+  - DOMAIN-SUFFIX,digitalcertvalidation.com
+  - DOMAIN-SUFFIX,dscw105.akamai.net
+  - DOMAIN-KEYWORD,nbcstreaming
+  - DOMAIN-KEYWORD,peacockvod
 
 # NAME: CNN
   - DOMAIN-SUFFIX,cnn.com
