@@ -38,3 +38,9 @@ IP-CIDR,185.180.14.0/24,no-resolve
 DOMAIN-SUFFIX,overboxtv.com
 DOMAIN-SUFFIX,maltaip.com
 DOMAIN-SUFFIX,siggiztv.com
+#ultraqud
+IP-CIDR,194.120.230.0/24,no-resolve
+IP-CIDR,143.244.58.0/24,no-resolve
+IP-CIDR,122.254.124.0/24,no-resolve
+IP-CIDR,37.77.57.0/24,no-resolve
+IP-CIDR,45.15.210.0/24,no-resolve
