@@ -28,6 +28,7 @@ payload:
 #stalker
   - IP-CIDR,188.93.236.0/24,no-resolve
   - IP-CIDR,188.93.237.0/24,no-resolve
+  - IP-CIDR,185.235.167.0/24,no-resolve
   - IP-CIDR,185.236.230.0/24,no-resolve
   - IP-CIDR,185.191.0.0/16,no-resolve
   - IP-CIDR,185.93.2.0/24,no-resolve
@@ -42,3 +43,5 @@ payload:
   - IP-CIDR,122.254.124.0/24,no-resolve
   - IP-CIDR,37.77.57.0/24,no-resolve
   - IP-CIDR,45.15.210.0/24,no-resolve
+  - DOMAIN-SUFFIX,mag.ultraqhd.net
+  - DOMAIN-SUFFIX,redirect-4k.com
