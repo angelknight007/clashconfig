@@ -44,3 +44,5 @@ IP-CIDR,143.244.58.0/24,no-resolve
 IP-CIDR,122.254.124.0/24,no-resolve
 IP-CIDR,37.77.57.0/24,no-resolve
 IP-CIDR,45.15.210.0/24,no-resolve
+DOMAIN-SUFFIX,mag.ultraqhd.net
+DOMAIN-SUFFIX,redirect-4k.com
