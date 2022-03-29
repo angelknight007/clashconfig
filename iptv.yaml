@@ -47,4 +47,5 @@ payload:
   - IP-CIDR,37.77.57.0/24,no-resolve
   - IP-CIDR,45.15.210.0/24,no-resolve
   - DOMAIN-SUFFIX,mag.ultraqhd.net
+  - DOMAIN-SUFFIX,mag.ultraqhd.io
   - DOMAIN-SUFFIX,redirect-4k.com
