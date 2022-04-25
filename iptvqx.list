@@ -25,6 +25,8 @@ HOST-SUFFIX,troya.tv,📼 IPTV
 HOST-SUFFIX,tv.team,📼 IPTV
 #lightiptv
 HOST-SUFFIX,pp.ru,📼 IPTV
+IP-CIDR,104.21.234.0/24,📼 IPTV
+IP-CIDR,104.21.235.0/24,📼 IPTV
 #others
 IP-CIDR,188.93.236.0/24,📼 IPTV
 IP-CIDR,188.93.237.0/24,📼 IPTV
