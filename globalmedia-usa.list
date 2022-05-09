@@ -88,6 +88,16 @@ DOMAIN-SUFFIX,cnnarabic.com
 DOMAIN-SUFFIX,cnnlabs.com
 DOMAIN-SUFFIX,cnnmoney.ch
 
+#HULU
+DOMAIN-SUFFIX,cws-hulu.conviva.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.hb.omtrdc.net
+DOMAIN-SUFFIX,hulu.sc.omtrdc.net
+DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
+PROCESS-NAME,com.hulu.plus
+
 #ultraqud
 IP-CIDR,194.120.230.0/24,no-resolve
 IP-CIDR,143.244.58.0/24,no-resolve
