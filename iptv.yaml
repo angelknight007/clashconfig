@@ -45,6 +45,8 @@ payload:
   - IP-CIDR,185.180.14.0/24,no-resolve
   - DOMAIN-KEYWORD,worldtvip
   - DOMAIN-SUFFIX,sunmoney.net
+  - DOMAIN-SUFFIX,supiptv.vip
+  - DOMAIN-SUFFIX,maltaip.com
 #ultraqud
 #  - IP-CIDR,194.120.230.0/24,no-resolve
 #  - IP-CIDR,143.244.58.0/24,no-resolve
