@@ -44,6 +44,9 @@ IP-CIDR,62.210.0.0/16,no-resolve
 IP-CIDR,185.180.14.0/24,no-resolve
 DOMAIN-KEYWORD,worldtvip
 DOMAIN-SUFFIX,sunmoney.net
+#DOMAIN-SUFFIX,siggiztv.com
+DOMAIN-SUFFIX,maltaip.com
+DOMAIN-SUFFIX,supiptv.vip
 #ultraqud
 #  - IP-CIDR,194.120.230.0/24,no-resolve
 #  - IP-CIDR,143.244.58.0/24,no-resolve
