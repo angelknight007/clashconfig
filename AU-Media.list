@@ -1,0 +1,75 @@
+# NAME: 7 plus
+DOMAIN,7plus.com.au
+DOMAIN,npc-live-sevennetwork.akamaized.net
+DOMAIN,7plus-sevennetwork.akamaized.net
+DOMAIN,seven.demdex.net
+DOMAIN,cdn.7livecloud.io
+
+
+# NAME: 9 now
+DOMAIN,nine.com.au
+DOMAIN,9now.com.au
+DOMAIN,edge.api.brightcove.com
+DOMAIN,p-9now.akamaized.net
+DOMAIN,9now-livestreams.akamaized.net
+DOMAIN-SUFFIX,9cdn.net
+DOMAIN-SUFFIX,9nation.com.au
+DOMAIN-SUFFIX,9news.com.au
+DOMAIN-SUFFIX,9now.com.au
+DOMAIN-SUFFIX,freeviewplus.net.au
+DOMAIN-SUFFIX,mi9.com.au
+DOMAIN-SUFFIX,mi9cdn.com
+DOMAIN-SUFFIX,nine.com.au
+DOMAIN-SUFFIX,nineentertainment.com.au
+DOMAIN-SUFFIX,nineentertainmentco.com.au
+DOMAIN-SUFFIX,ninemediaroom.com.au
+DOMAIN-SUFFIX,ninemsn.com.au
+DOMAIN-SUFFIX,static9.net.au
+DOMAIN-SUFFIX,yourtv.com.au
+
+# NAME: 10 play
+DOMAIN-SUFFIX,10play.com.au
+DOMAIN-SUFFIX,global.ssl.fastly.net
+DOMAIN-SUFFIX,airspace-cdn.cbsviedo.com
+DOMAIN,net10-livestream-keys.play.cbsi.video
+DOMAIN,net10-livestream.play.cbsi.video
+DOMAIN,d25m2gzplgnf0.cloudfront.net
+
+# NAME: ABC
+DOMAIN,abc.net.au
+DOMAIN,abc-iview-mediapackagestreams-2.akamaized.net
+
+# NAME: SBS
+DOMAIN-SUFFIX,sbsod.com
+DOMAIN,sbs.com.au
+DOMAIN,videocdn-sbs.akamaized.net
+DOMAIN,sbsvoddai-vh.akamaihd.net
+DOMAIN,sbsvodns-vh.akamaihd.net
+DOMAIN,sbs-live-dai.akamaized.net
+DOMAIN,sbs-live.akamaized.net
+DOMAIN,sbs-live-dai.akamaized.net
+
+# NAME: Stan
+DOMAIN,streamcoimg-a.akamaihd.net
+DOMAIN-SUFFIX,stan.com.au
+DOMAIN-SUFFIX,stan.video
+DOMAIN-SUFFIX,tan.com.au
+
+# NAME: Optus
+DOMAIN-SUFFIX,optus.com.au
+DOMAIN-SUFFIX,optusdigital.com
+DOMAIN-SUFFIX,optusnet.com.au
+DOMAIN-SUFFIX,optussport.tv
+DOMAIN-KEYWORD,csm-e-optus
+DOMAIN-KEYWORD,csm-e-ceoptaase
+DOMAIN-KEYWORD,drm-widevine-licensing.axprod.net
+DOMAIN-KEYWORD,optus
+DOMAIN,vcms-storage-stack-prod-mediafilestorage-odfxya91bk73.s3.amazonaws
+DOMAIN,mgd0ee5iankkv3gidl14rm7c0.litix.io.com
+DOMAIN-SUFFIX,d3rj5p7u4c4icq.cloudfront.net
+DOMAIN-SUFFIX,d21xmla0sqnlu7.cloudfront.net
+
+# NAME: Others
+DOMAIN-SUFFIX,com.au
+DOMAIN-SUFFIX,au
+DOMAIN-SUFFIX,mjh.nz
