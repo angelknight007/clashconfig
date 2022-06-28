@@ -1,0 +1,10 @@
+#Hamivideo
+PROCESS-NAME,com.cht.ottPlayer
+DOMAIN,hamivideo.hinet.net
+DOMAIN,apl-hamivideo.cdn.hinet.net
+DOMAIN,static-hamivideo.cdn.hinet.net
+DOMAIN,webvod-hamivideo.cdn.hinet.net
+DOMAIN,weblivea-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,t.ssp.hinet.net
+##DOMAIN-KEYWORD,hamivideo
+##DOMAIN-SUFFIX,hinet.net
