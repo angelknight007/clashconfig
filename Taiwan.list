@@ -7,4 +7,4 @@ DOMAIN,webvod-hamivideo.cdn.hinet.net
 DOMAIN,weblivea-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,t.ssp.hinet.net
 ##DOMAIN-KEYWORD,hamivideo
-##DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,hinet.net
