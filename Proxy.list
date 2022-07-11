@@ -2,3 +2,6 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,wikipedia.org
 PROCESS-NAME,com.mudvod.video
 PROCESS-NAME,com.google.android.gm
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
