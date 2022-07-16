@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,cupid.iqiyi.com
   
 # > Youku 视频暂停广告
 DOMAIN,iyes.youku.com
+
+#Reject
+DOMAIN-SUFFIX,guizumeimei.com
