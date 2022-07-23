@@ -3,6 +3,7 @@ IP-CIDR,194.59.155.0/24,no-resolve
 IP-CIDR,213.183.40.0/24,no-resolve
 IP-CIDR,213.183.42.0/24,no-resolve
 IP-CIDR,213.183.47.0/24,no-resolve
+IP-CIDR,213.226.69.0/24,no-resolve
 IP-CIDR,5.182.228.0/24,no-resolve
 IP-CIDR,5.182.229.0/24,no-resolve
 IP-CIDR,5.182.231.0/24,no-resolve
