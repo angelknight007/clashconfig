@@ -19,3 +19,5 @@ DOMAIN,cbsi.live.ott.irdeto.com
 # DOMAIN,cbsnews.akamaized.net
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN-SUFFIX,intl.paramountplus.com
+DOMAIN,wwwimage-intl.pplusstatic.com
