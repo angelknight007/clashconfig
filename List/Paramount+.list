@@ -1,6 +1,6 @@
 # > Paramount+
-# USER-AGENT,PPlus*
-# USER-AGENT,Paramountlus*
+USER-AGENT,PPlus*
+USER-AGENT,Paramountlus*
 # PROCESS-NAME,com.cbs.app
 # PROCESS-NAME,com.cbs.ott
 # PROCESS-NAME,com.cbs.ca
