@@ -15,7 +15,7 @@ DOMAIN,link.theplatform.com
 DOMAIN,cbsi.live.ott.irdeto.com
 # DOMAIN,thumbnails.cbsig.net
 # DOMAIN,cbsinteractive.hb.omtrdc.net
-# DOMAIN,ads.play.cbsi.video
+DOMAIN,ads.play.cbsi.video
 # DOMAIN,cbsnews.akamaized.net
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
