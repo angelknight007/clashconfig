@@ -1,9 +1,6 @@
 # > Paramount+
 USER-AGENT,PPlus*
 USER-AGENT,Paramountlus*
-# PROCESS-NAME,com.cbs.app
-# PROCESS-NAME,com.cbs.ott
-# PROCESS-NAME,com.cbs.ca
 DOMAIN-SUFFIX,cbsi.com
 # DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbsivideo.com
@@ -21,3 +18,6 @@ DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN-SUFFIX,intl.paramountplus.com
 DOMAIN,wwwimage-intl.pplusstatic.com
+PROCESS-NAME,com.cbs.app
+# PROCESS-NAME,com.cbs.ott
+# PROCESS-NAME,com.cbs.ca
