@@ -28,3 +28,4 @@ DOMAIN-SUFFIX,dispatcher.is.autonavi.com
 DOMAIN-SUFFIX,sportscenter.fan.api.es
 DOMAIN-SUFFIX,espn.api.edge.bamgrid.com
 DOMAIN-SUFFIX,geolocation.onetrust.com
+PROCESS-NAME,com.espn.score_center
