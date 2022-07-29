@@ -79,6 +79,19 @@ DOMAIN,edge.api.brightcove.com
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,encoretvb.com
 
+# PBS
+USER-AGENT,PBS*
+DOMAIN-SUFFIX,pbs.org
+
+# Twitch
+DOMAIN-KEYWORD,ttvnw
+DOMAIN-SUFFIX,ext-twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch-ext.rootonline.de
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+
 #ultraqud
 IP-CIDR,194.120.230.0/24,no-resolve
 IP-CIDR,143.244.58.0/24,no-resolve
