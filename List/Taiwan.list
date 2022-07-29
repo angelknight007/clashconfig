@@ -9,14 +9,13 @@ DOMAIN-SUFFIX,t.ssp.hinet.net
 ##DOMAIN-KEYWORD,hamivideo
 DOMAIN-SUFFIX,hinet.net
 
-#CatchPlay+
+#CatchPlay+ additional
 DOMAIN-KEYWORD,catchplay
-DOMAIN-SUFFIX,catchplay.com
-DOMAIN,asiaplay-origin.s3.amazonaws.com
-DOMAIN,tra-ww000-cp.akamaized.net
 DOMAIN,hp2-api.catchplay.com
-DOMAIN,ols-ww100-cp.akamaized.net
-DOMAIN,ols-ww000-cp.akamaized.net
 DOMAIN,vcmsapi.catchplay.com
 DOMAIN,sunapi.catchplay.com
 DOMAIN,catchplay.com/tw
+
+#Other
+DOMAIN-SUFFIX,tw.manhuagui.com
+DOMAIN-SUFFIX,i.hamreus.com
