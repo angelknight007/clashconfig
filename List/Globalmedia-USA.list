@@ -71,6 +71,14 @@ DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
 PROCESS-NAME,com.hulu.plus
 
+# EncoreTVB
+USER-AGENT,encoreTVB*
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,encoretvb.com
+
 #ultraqud
 IP-CIDR,194.120.230.0/24,no-resolve
 IP-CIDR,143.244.58.0/24,no-resolve
