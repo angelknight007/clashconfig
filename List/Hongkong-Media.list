@@ -9,3 +9,7 @@ IP-CIDR,45.148.26.0/24,no-resolve
 IP-CIDR,45.150.197.0/24,no-resolve
 IP-CIDR,45.94.28.0/24,no-resolve
 IP-CIDR,85.203.17.0/24,no-resolve
+
+#nowe
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,now.com
