@@ -44,7 +44,9 @@ IP-CIDR,89.187.189.0/24,no-resolve
 IP-CIDR,62.210.0.0/16,no-resolve
 IP-CIDR,185.180.14.0/24,no-resolve
 DOMAIN-KEYWORD,worldtvip
+DOMAIN-KEYWORD,funtogether
 DOMAIN-SUFFIX,sunmoney.net
+DOMAIN-SUFFIX,clientsportals.net
 #DOMAIN-SUFFIX,siggiztv.com
 DOMAIN-SUFFIX,maltaip.com
 #DOMAIN-SUFFIX,supiptv.vip
