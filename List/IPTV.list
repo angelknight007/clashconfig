@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,dmtn.tv
 DOMAIN-SUFFIX,mydmtn.tv
 IP-CIDR,217.74.16.0/24,no-resolve
 IP-CIDR,45.153.33.0/24,no-resolve
+IP-CIDR,102.165.51.0/24,no-resolve
 #others
 #stalker
 IP-CIDR,188.93.236.0/24,no-resolve
