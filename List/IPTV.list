@@ -34,6 +34,16 @@ DOMAIN-SUFFIX,mydmtn.tv
 IP-CIDR,217.74.16.0/24,no-resolve
 IP-CIDR,45.153.33.0/24,no-resolve
 IP-CIDR,102.165.51.0/24,no-resolve
+#crystal
+DOMAIN-SUFFIX,otto.xyz
+DOMAIN-SUFFIX,crystal-ott.com
+DOMAIN-SUFFIX,cname-crystal.com
+DOMAIN-SUFFIX,loadbalance.live
+DOMAIN-SUFFIX,crystalott.net
+IP-CIDR,23.7.208.0/24,no-resolve
+IP-CIDR,45.132.192.0/24,no-resolve
+IP-CIDR,45.86.190.0/24,no-resolve
+IP-CIDR,185.11.60.0/24,no-resolve
 #others
 #stalker
 IP-CIDR,188.93.236.0/24,no-resolve
