@@ -10,10 +10,11 @@ DOMAIN-SUFFIX,t.ssp.hinet.net
 DOMAIN-SUFFIX,hinet.net
 
 #CatchPlay+ additional
-DOMAIN-KEYWORD,catchplay
+#DOMAIN-KEYWORD,catchplay
 DOMAIN,hp2-api.catchplay.com
 DOMAIN,vcmsapi.catchplay.com
 DOMAIN,sunapi.catchplay.com
+DOMAIN-SUFFIX,catchplay.com
 
 #Other
 DOMAIN-SUFFIX,tw.manhuagui.com
