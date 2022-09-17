@@ -44,6 +44,9 @@ IP-CIDR,23.7.208.0/24,no-resolve
 IP-CIDR,45.132.192.0/24,no-resolve
 IP-CIDR,45.86.190.0/24,no-resolve
 IP-CIDR,185.11.60.0/24,no-resolve
+#mytvfeed
+DOMAIN-SUFFIX,mytvfeed.net
+IP-CIDR,109.121.44.0/24,no-resolve
 #others
 #stalker
 IP-CIDR,188.93.236.0/24,no-resolve
