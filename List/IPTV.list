@@ -84,7 +84,7 @@ DOMAIN-SUFFIX,sunmoney.net
 DOMAIN-SUFFIX,clientsportals.net
 DOMAIN-SUFFIX,bambytelevision.ddns.net
 DOMAIN-SUFFIX,mains.vip
-DOMAIN-SUFFIX,kungtv.net
+#DOMAIN-SUFFIX,kungtv.net
 DOMAIN-SUFFIX,uhdtv.one
 DOMAIN-SUFFIX,diamondma.club
 DOMAIN-SUFFIX,superbest4.faststream.link
