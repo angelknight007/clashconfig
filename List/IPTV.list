@@ -45,7 +45,7 @@ IP-CIDR,45.132.192.0/24,no-resolve
 IP-CIDR,45.86.190.0/24,no-resolve
 IP-CIDR,185.11.60.0/24,no-resolve
 #mytvfeed
-DOMAIN-SUFFIX,mytvfeed.net
+#DOMAIN-SUFFIX,mytvfeed.net
 IP-CIDR,109.121.44.0/24,no-resolve
 #animal
 DOMAIN-SUFFIX,mastergold.co.uk
