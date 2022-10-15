@@ -31,9 +31,9 @@ IP-CIDR,104.21.235.0/24,no-resolve
 #dmtn
 DOMAIN-SUFFIX,dmtn.tv
 DOMAIN-SUFFIX,mydmtn.tv
-IP-CIDR,217.74.16.0/24,no-resolve
-IP-CIDR,45.153.33.0/24,no-resolve
-IP-CIDR,102.165.51.0/24,no-resolve
+#IP-CIDR,217.74.16.0/24,no-resolve
+#IP-CIDR,45.153.33.0/24,no-resolve
+#IP-CIDR,102.165.51.0/24,no-resolve
 #crystal
 DOMAIN-SUFFIX,otto.xyz
 DOMAIN-SUFFIX,crystal-ott.com
