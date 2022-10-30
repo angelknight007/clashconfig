@@ -84,6 +84,7 @@ IP-CIDR,185.180.14.0/24,no-resolve
 IP-CIDR,81.19.134.0/24,no-resolve
 IP-CIDR,38.68.205.0/24,no-resolve
 IP-CIDR,192.40.57.0/24,no-resolve
+IP-CIDR,141.94.163.202/32,no-resolve
 DOMAIN-KEYWORD,worldtvip
 DOMAIN-KEYWORD,funtogether
 DOMAIN-SUFFIX,sunmoney.net
