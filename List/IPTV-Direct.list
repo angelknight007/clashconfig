@@ -17,8 +17,3 @@ IP-CIDR,5.9.0.0/24,no-resolve
 IP-CIDR,103.49.40.0/24,no-resolve
 IP-CIDR,45.58.141.0/24,no-resolve
 IP-CIDR,103.76.130.0/24,no-resolve
-#crystal
-IP-CIDR,23.7.208.0/24,no-resolve
-IP-CIDR,45.132.192.0/24,no-resolve
-IP-CIDR,45.86.190.0/24,no-resolve
-IP-CIDR,185.11.60.0/24,no-resolve
