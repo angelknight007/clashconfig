@@ -22,7 +22,7 @@ DOMAIN-KEYWORD,russtv
 DOMAIN-SUFFIX,ultra-tv.online
 IP-CIDR,62.149.6.21/32,no-resolve
 #tv.team
-#DOMAIN-SUFFIX,troya.tv
+DOMAIN-SUFFIX,troya.tv
 DOMAIN-SUFFIX,tv.team
 #lightiptv
 DOMAIN-SUFFIX,pp.ru
