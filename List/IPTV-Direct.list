@@ -17,3 +17,13 @@ IP-CIDR,5.9.0.0/24,no-resolve
 IP-CIDR,103.49.40.0/24,no-resolve
 IP-CIDR,45.58.141.0/24,no-resolve
 IP-CIDR,103.76.130.0/24,no-resolve
+#ger
+IP-CIDR,179.61.168.0/24,no-resolve
+#funtogether
+IP-CIDR,185.236.230.0/24,no-resolve
+#neczbm
+IP-CIDR,45.88.200.0/24,no-resolve
+#2095
+IP-CIDR,185.191.127.0/24,no-resolve
+IP-CIDR,185.191.124.0/24,no-resolve
+IP-CIDR,185.191.126.0/24,no-resolve
