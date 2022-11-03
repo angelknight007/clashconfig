@@ -6,7 +6,7 @@ IP-CIDR,37.49.224.0/24,no-resolve
 IP-CIDR,185.209.15.0/24,no-resolve
 IP-CIDR,45.148.147.0/24,no-resolve
 #team
-DOMAIN-SUFFIX,troya.tv
+#DOMAIN-SUFFIX,troya.tv
 #uk
 IP-CIDR,109.121.44.0/24,no-resolve
 IP-CIDR,45.58.164.0/24,no-resolve
