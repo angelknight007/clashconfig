@@ -21,6 +21,7 @@ IP-CIDR,45.86.84.0/24,no-resolve
 IP-CIDR,185.102.170.0/24,no-resolve
 #ger
 IP-CIDR,179.61.168.0/24,no-resolve
+IP-CIDR,149.18.26.0/24,no-resolve
 #funtogether
 IP-CIDR,185.236.230.0/24,no-resolve
 #neczbm
