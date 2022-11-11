@@ -13,16 +13,18 @@ rtp://239.3.1.116:8000
 rtp://239.3.1.117:8000
 #EXTINF:-1 tvg-name="BTV青年",BRTV青年[高清]
 rtp://239.3.1.118:8000
-#EXTINF:-1 tvg-name="BTV科教",BRTV科教[高清]
+#EXTINF:-1 tvg-name="该频道节目单尚无",BRTV纪实科教[高清]
 rtp://239.3.1.115:8000
 #EXTINF:-1 tvg-name="卡酷动画",BRTV卡酷少儿[高清]
 rtp://239.3.1.189:8000
 # #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[高清]
 # rtp://239.3.1.243:8000
-# #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清HDR]
-# rtp://239.3.1.120:8000
-# #EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清]
-# rtp://239.3.1.121:8000
+EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清HDR]
+rtp://239.3.1.120:8000
+EXTINF:-1 tvg-name="北京纪实",BRTV冬奥纪实[超清]
+rtp://239.3.1.121:8000
+#EXTINF:-1 tvg-name="该频道节目单尚无",BRTV体育休闲
+rtp://239.3.1.230:8000
 #EXTINF:-1 tvg-name="该频道节目单尚无",BTV国际频道
 rtp://239.3.1.235:8000
 #EXTINF:-1 tvg-name="CCTV1",CCTV-1 综合[高清]
@@ -59,18 +61,10 @@ rtp://239.3.1.65:8132
 rtp://239.3.1.153:8136
 #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[超清HDR]
 rtp://239.3.1.183:8001
-# #EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清]
-# rtp://239.3.1.184:8001
+#EXTINF:-1 tvg-name="CCTV16",CCTV-16 奥林匹克[高清]
+rtp://239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV17",CCTV-17 农业农村[高清]
 rtp://239.3.1.151:8144
-#EXTINF:-1 tvg-name="CCTV4K",CCTV 4K超高清[超清HDR][非官方]
-https://v.bjiptv.eu.org/4.php
-#EXTINF:-1 tvg-name="凤凰中文",凤凰卫视中文[高清][非官方]
-http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-# http://hdtv.haust.edu.cn/hls/hls254.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯",凤凰卫视资讯[高清][非官方]
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-# http://hdtv.haust.edu.cn/hls/hls255.m3u8
 #EXTINF:-1 tvg-name="爱上4K",爱上4K[超清]
 rtp://239.3.1.236:2000
 #EXTINF:-1 tvg-name="该频道节目单尚无",4K超清[超清]
@@ -189,12 +183,12 @@ rtp://239.3.1.188:8001
 rtp://239.3.1.163:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",通州融媒[高清]
 rtp://239.3.1.221:8001
-#EXTINF:-1 tvg-name="该频道节目单尚无",房山电视台[高清]
-rtp://239.3.1.96:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",密云电视台[高清]
 rtp://239.3.1.154:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",延庆电视台
 rtp://239.3.1.187:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",房山电视台[高清]
+rtp://239.3.1.96:8001
 #EXTINF:-1 tvg-name="CCTV4EUO",CCTV-4 中文国际 欧洲[高清]
 rtp://239.3.1.213:4220
 #EXTINF:-1 tvg-name="CCTV4AME",CCTV-4 中文国际 美洲[高清]
@@ -211,6 +205,14 @@ rtp://239.3.1.218:4220
 rtp://239.3.1.219:4220
 #EXTINF:-1 tvg-name="该频道节目单尚无",CGTN 俄语[高清]
 rtp://239.3.1.220:4220
+#EXTINF:-1 tvg-name="该频道节目单尚无",睛彩竞技[高清]
+rtp://239.3.1.125:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",睛彩篮球[高清]
+rtp://239.3.1.126:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",睛彩羽毛球[高清]
+rtp://239.3.1.127:8001
+#EXTINF:-1 tvg-name="该频道节目单尚无",睛彩广场舞[高清]
+rtp://239.3.1.128:8001
 #EXTINF:-1 tvg-name="茶频道",茶频道[高清]
 rtp://239.3.1.165:8001
 #EXTINF:-1 tvg-name="该频道节目单尚无",体育赛事[高清]
