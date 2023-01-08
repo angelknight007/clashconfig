@@ -50,6 +50,7 @@ DOMAIN,sbs-live.akamaized.net
 DOMAIN,sbs-live-dai.akamaized.net
 
 # NAME: Stan
+PROCESS-NAME,au.com.stan.and
 DOMAIN,streamcoimg-a.akamaihd.net
 DOMAIN-SUFFIX,stan.com.au
 DOMAIN-SUFFIX,stan.video
