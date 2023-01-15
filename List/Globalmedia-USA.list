@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,dscw105.akamai.net
 DOMAIN-KEYWORD,nbcstreaming
 DOMAIN-KEYWORD,peacockvod
 DOMAIN-KEYWORD,peacocktv
-#PROCESS-NAME,com.peacocktv.peacockandroid
+PROCESS-NAME,com.peacocktv.peacockandroid
 
 # NAME: CNN
 DOMAIN-SUFFIX,cnn.com
