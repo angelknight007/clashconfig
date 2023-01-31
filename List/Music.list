@@ -45,6 +45,7 @@ PROCESS-NAME,com.qobuz.music
 
 #Deezer
 USER-AGENT,Deezer*
+PROCESS-NAME,deezer.android.app
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
 
