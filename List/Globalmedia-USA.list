@@ -92,6 +92,14 @@ DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 
+# ChatGPT
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,sentry.io
+
 
 #ultraqud
 IP-CIDR,194.120.230.0/24,no-resolve
