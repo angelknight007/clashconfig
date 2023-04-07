@@ -1,3 +1,4 @@
+#JioCinema
 DOMAIN-SUFFIX,voot.com
 DOMAIN-SUFFIX,jiocinema.voot.com
 DOMAIN-SUFFIX,jio.com
@@ -8,3 +9,5 @@ DOMAIN,jioeventeng.akamaized.net
 DOMAIN,jioeventhin.akamaized.net
 DOMAIN,jiolivestreaming.akamaized.net
 PROCESS-NAME,com.jio.media.ondemand
+
+DOMAIN-SUFFIX,my
