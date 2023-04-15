@@ -6,7 +6,9 @@ DOMAIN-SUFFIX,it
 DOMAIN-SUFFIX,es
 DOMAIN-SUFFIX,nl
 DOMAIN-SUFFIX,se
-
+DOMAIN-SUFFIX,7xruistream.com
+DOMAIN-SUFFIX,enkalitelihizmet333.com
+#eurosport
 PROCESS-NAME,com.eurosport
 DOMAIN-SUFFIX,eurosport.io
 DOMAIN-KEYWORD,eurosport
