@@ -11,3 +11,5 @@ DOMAIN,jiolivestreaming.akamaized.net
 PROCESS-NAME,com.jio.media.ondemand
 
 DOMAIN-SUFFIX,my
+DOMAIN-SUFFIX,com.my
+DOMAIN-SUFFIX,astradamy.com
