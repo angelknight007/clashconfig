@@ -61,4 +61,4 @@ IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,216.239.32.0/19,no-resolve
 DOMAIN-SUFFIX,googleusercontent.com
 #Google One
-IP-CIDR,136.22.0.0/16
+#IP-CIDR,136.22.0.0/16
