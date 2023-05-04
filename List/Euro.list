@@ -38,3 +38,6 @@ DOMAIN-SUFFIX,a1869.v.akamai.net
 ##DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,eurosport-dlvr-ott-vod.akamaized.net
 USER-AGENT,Eurosport*
+DOMAIN-KEYWORD,vercel-php-clearkey-hex-base64-json
+DOMAIN-KEYWORD,dsh-m001-live-aka-canalplus
+DOMAIN-KEYWORD,dcf-fs-live-dazn-cdn
