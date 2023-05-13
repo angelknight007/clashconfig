@@ -39,7 +39,7 @@ DOMAIN-SUFFIX,a1869.v.akamai.net
 DOMAIN-SUFFIX,eurosport-dlvr-ott-vod.akamaized.net
 USER-AGENT,Eurosport*
 #DRM
-DOMAIN-KEYWORD,wp-obc5-live-nl-prod
+DOMAIN-KEYWORD,live-nl-prod
 DOMAIN-KEYWORD,dsh-m001-live-aka-canalplus
 DOMAIN-KEYWORD,dcf-fs-live-dazn-cdn
 DOMAIN-KEYWORD,live-dash-cdn2-vp.cdn.viaplay.tv
@@ -47,3 +47,4 @@ DOMAIN-KEYWORD,movistarplus
 DOMAIN-SUFFIX,redefine.pl
 DOMAIN-SUFFIX,pluscdn.pl
 DOMAIN-SUFFIX,telia.com
+DOMAIN-KEYWORD,cdn.viaplay
