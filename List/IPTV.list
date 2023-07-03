@@ -41,12 +41,16 @@ IP-CIDR,104.21.235.0/24,no-resolve
 #dmtn
 DOMAIN-SUFFIX,dmtn.tv
 DOMAIN-SUFFIX,mydmtn.tv
+DOMAIN-SUFFIX,venom-vip.com
 IP-CIDR,217.74.16.0/24,no-resolve
 IP-CIDR,45.153.33.0/24,no-resolve
 IP-CIDR,102.165.51.0/24,no-resolve
 IP-CIDR,37.49.224.0/24,no-resolve
 IP-CIDR,185.209.15.0/24,no-resolve
 IP-CIDR,45.148.147.0/24,no-resolve
+IP-CIDR,122.254.0.0/12,no-resolve
+IP-CIDR,185.53.0.0/12,no-resolve
+IP-CIDR,45.143.0.0/12,no-resolve
 #crystal
 DOMAIN-SUFFIX,otto.xyz
 DOMAIN-SUFFIX,crystal-ott.com
