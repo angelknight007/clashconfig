@@ -17,3 +17,6 @@ DOMAIN-SUFFIX,dcalivedazn.akamaized.net
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,logx.optimizely.com
 DOMAIN-SUFFIX,s.yimg.jp
+DOMAIN-SUFFIX,urbanairship.com
+DOMAIN-SUFFIX,quantcount.com
+PROCESS-NAME,com.dazn
