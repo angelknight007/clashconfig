@@ -12,10 +12,10 @@ DOMAIN-SUFFIX,cm.steampowered.com
 DOMAIN-SUFFIX,test.steampowered.com
 
 #DST-PORT,22
-DOMAIN-SUFFIX,caosi.uk
-DOMAIN-SUFFIX,ccemby.tk
-DOMAIN-SUFFIX,bluesea.ddns.me
-DOMAIN-SUFFIX,direct.nebula-emby.com
+#DOMAIN-SUFFIX,caosi.uk
+#DOMAIN-SUFFIX,ccemby.tk
+#DOMAIN-SUFFIX,bluesea.ddns.me
+#DOMAIN-SUFFIX,direct.nebula-emby.com
 DOMAIN,oracleuk.michaeljl007.top
 DOMAIN,oraclejp.michaeljl007.top
 DOMAIN,us-rn.michaeljl007.top
