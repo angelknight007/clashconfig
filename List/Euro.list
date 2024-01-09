@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,enkalitelihizmet333.com
 
 #DRM
 DOMAIN-KEYWORD,live-nl-prod
-DOMAIN-KEYWORD,dsh-m001-live-aka-canalplus
+DOMAIN-KEYWORD,live-aka-canalplus
 DOMAIN-KEYWORD,dcf-fs-live-dazn-cdn
 DOMAIN-KEYWORD,live-dash-cdn2-vp.cdn.viaplay.tv
 DOMAIN-KEYWORD,movistarplus
@@ -30,3 +30,4 @@ DOMAIN-KEYWORD,frrg2023uhdhdr
 DOMAIN-KEYWORD,livewwdazn
 DOMAIN-KEYWORD,dcj-ac-live
 DOMAIN-SUFFIX,live-up.fubo.tv
+DOMAIN-SUFFIX,cdn-canalplus.pl
