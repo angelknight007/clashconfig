@@ -23,6 +23,9 @@ DOMAIN,bahamut.akamaized.net
 #DOMAIN-KEYWORD,4gtvfree
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,tw
 DOMAIN-KEYWORD,tw.news
 DOMAIN-KEYWORD,tw.yahoo
+DOMAIN-SUFFIX,udn.com
