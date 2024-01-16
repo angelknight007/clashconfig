@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,mirrorbooks.com
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,dafahao
-DOMAIN-KEYWORD,epochtimes
 DOMAIN-KEYWORD,ntdtv
 DOMAIN-KEYWORD,aboluowang
 DOMAIN-KEYWORD,boxun
@@ -10,8 +9,6 @@ DOMAIN-KEYWORD,minghui
 DOMAIN-KEYWORD,wujieliulan
 DOMAIN-KEYWORD,zhengjian
 DOMAIN-KEYWORD,soundofhope
-DOMAIN-KEYWORD,boastr
-DOMAIN-KEYWORD,shinhan
 DOMAIN-KEYWORD,cyberpolice
 DOMAIN-KEYWORD,tuidang
 DOMAIN-KEYWORD,falundafa
@@ -24,3 +21,4 @@ DOMAIN-KEYWORD,elplural
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-KEYWORD,voachinese
 DOMAIN-SUFFIX,chinadigitaltimes.net
+DOMAIN-SUFFIX,epochtimes.com
