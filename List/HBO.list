@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,maxgo.com
 PROCESS-NAME,com.hbo.hbonow
+PROCESS-NAME,com.wbd.stream
