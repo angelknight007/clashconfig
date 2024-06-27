@@ -42,6 +42,4 @@ DOMAIN-KEYWORD,dice-live-oc
 DOMAIN-SUFFIX,dve-streams.akamaized.net
 DOMAIN-SUFFIX,dice-live-eu.akamaized.net
 
-#Disney 串流分流
-DOMAIN-SUFFIX,media.dssott.com
-DOMAIN,http.global.dns.qwilted-cds.cqloud.com
+
