@@ -1,12 +1,12 @@
-DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com
-DOMAIN-SUFFIX,cdn.registerdisney.go.com
+#DOMAIN-SUFFIX,bam-sdk-configs.bamgrid.com
+#DOMAIN-SUFFIX,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,sdk.iad-06.braze.com
 DOMAIN-SUFFIX,espn.com
 DOMAIN-SUFFIX,api.twdcstories.com
 DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,espncdn.com
 DOMAIN-SUFFIX,us.edge.bamgrid.com
-DOMAIN-SUFFIX,assets.adobedtm.com
+#DOMAIN-SUFFIX,assets.adobedtm.com
 DOMAIN-SUFFIX,streams.adobeprimetime.com
 DOMAIN-SUFFIX,sp.auth.adobe.com
 DOMAIN-SUFFIX,espn.net
@@ -27,5 +27,5 @@ DOMAIN-SUFFIX,j95vwycl9a.execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,dispatcher.is.autonavi.com
 DOMAIN-SUFFIX,sportscenter.fan.api.es
 DOMAIN-SUFFIX,espn.api.edge.bamgrid.com
-DOMAIN-SUFFIX,geolocation.onetrust.com
+#DOMAIN-SUFFIX,geolocation.onetrust.com
 PROCESS-NAME,com.espn.score_center
