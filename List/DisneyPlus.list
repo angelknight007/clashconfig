@@ -24,4 +24,5 @@ DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
+DOMAIN-SUFFIX,geolocation.onetrust.com
 PROCESS-NAME,com.disney.disneyplus
