@@ -1,3 +1,4 @@
+PROCESS-NAME,com.poe.android
 PROCESS-NAME,com.anthropic.claude
 PROCESS-NAME,com.openai.chatgpt
 DOMAIN,browser-intake-datadoghq.com
