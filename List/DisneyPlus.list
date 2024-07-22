@@ -1,6 +1,7 @@
 # 内容：DisneyPlus
 USER-AGENT,Disney*
 USER-AGENT,Disney+*
+PROCESS-NAME,com.disney.disneyplus
 DOMAIN,cdn.registerdisney.go.com
 #DOMAIN,disney.api.edge.bamgrid.com
 #DOMAIN,disney.content.edge.bamgrid.com
@@ -24,4 +25,3 @@ DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,js-agent.newrelic.com
 DOMAIN-SUFFIX,geolocation.onetrust.com
-PROCESS-NAME,com.disney.disneyplus
