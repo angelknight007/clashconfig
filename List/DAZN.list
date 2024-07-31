@@ -1,4 +1,5 @@
 USER-AGENT,DAZN*
+PROCESS-NAME,com.dazn
 DOMAIN-KEYWORD,voddazn
 DOMAIN,d151l6v8er5bdm.cloudfront.net
 DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
@@ -19,4 +20,3 @@ DOMAIN-SUFFIX,logx.optimizely.com
 DOMAIN-SUFFIX,s.yimg.jp
 DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,quantcount.com
-PROCESS-NAME,com.dazn
