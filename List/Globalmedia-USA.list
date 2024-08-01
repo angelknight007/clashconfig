@@ -48,6 +48,8 @@ DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,dsct.akamai.net
 DOMAIN-SUFFIX,digitalcertvalidation.com
 DOMAIN-SUFFIX,dscw105.akamai.net
+DOMAIN-SUFFIX,comcast.net
+DOMAIN-SUFFIX,nbcuott.com
 DOMAIN-KEYWORD,nbcstreaming
 DOMAIN-KEYWORD,peacockvod
 DOMAIN-KEYWORD,peacocktv
