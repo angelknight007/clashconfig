@@ -126,8 +126,15 @@ DOMAIN-SUFFIX,britishtv.org
 DOMAIN-SUFFIX,dns20.xyz
 DOMAIN-SUFFIX,ddnsking.com
 DOMAIN-SUFFIX,ivue.co
-DOMAIN-SUFFIX,blob.ktv.codes
+DOMAIN-SUFFIX,ktv.codes
+DOMAIN-SUFFIX,p13.cx
 DOMAIN-SUFFIX,ptv.lol
+DOMAIN-SUFFIX,vpnextreme.co
+DOMAIN-SUFFIX,smartd.vip
+DOMAIN-SUFFIX,thebr1ghtbox.xyz
+DOMAIN-SUFFIX,chick.house
+DOMAIN-SUFFIX,ptv.cx
+DOMAIN-SUFFIX,p13.pro
 #ultraqud
 #  - IP-CIDR,194.120.230.0/24,no-resolve
 #  - IP-CIDR,143.244.58.0/24,no-resolve
