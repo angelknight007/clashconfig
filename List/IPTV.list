@@ -126,7 +126,12 @@ DOMAIN-SUFFIX,britishtv.org
 DOMAIN-SUFFIX,dns20.xyz
 DOMAIN-SUFFIX,ddnsking.com
 DOMAIN-SUFFIX,ivue.co
+
 DOMAIN-SUFFIX,exodus-1.rocks
+IP-CIDR,45.141.56.0/24,no-resolve
+IP-CIDR,124.19.17.0/24,no-resolve
+
+#p13
 DOMAIN-SUFFIX,ktv.codes
 DOMAIN-SUFFIX,p13.cx
 DOMAIN-SUFFIX,ptv.lol
@@ -136,14 +141,3 @@ DOMAIN-SUFFIX,thebr1ghtbox.xyz
 DOMAIN-SUFFIX,chick.house
 DOMAIN-SUFFIX,ptv.cx
 DOMAIN-SUFFIX,p13.pro
-#ultraqud
-#  - IP-CIDR,194.120.230.0/24,no-resolve
-#  - IP-CIDR,143.244.58.0/24,no-resolve
-#  - IP-CIDR,122.254.0.0/16,no-resolve
-#  - IP-CIDR,37.77.57.0/24,no-resolve
-#  - IP-CIDR,37.77.58.0/24,no-resolve
-#  - IP-CIDR,45.15.210.0/24,no-resolve
-#  - DOMAIN-SUFFIX,mag.ultraqhd.net
-#  - DOMAIN-SUFFIX,mag.ultraqhd.io
-#  - DOMAIN-SUFFIX,redirect-4k.com
-#  - DOMAIN-SUFFIX,4k-ott.com
