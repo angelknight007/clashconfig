@@ -22,7 +22,8 @@ DOMAIN-SUFFIX,i.hamreus.com
 DOMAIN,bahamut.akamaized.net
 #DOMAIN-KEYWORD,4gtvfree
 DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,gov.tw
+DOMAIN-SUFFIX,pchome.com.tw
+#DOMAIN-SUFFIX,gov.tw
 DOMAIN-SUFFIX,com.tw
 DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,tw
@@ -34,3 +35,6 @@ DOMAIN-SUFFIX,thenewslens.com
 DOMAIN-SUFFIX,storm.mg
 DOMAIN-SUFFIX,anntw.com
 DOMAIN-SUFFIX,eltaott.tv
+DOMAIN-SUFFIX,ettoday.net
+DOMAIN-SUFFIX,nownews.com
+DOMAIN-SUFFIX,ptt.cc
