@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,global-prod.disco-api.com
 DOMAIN-SUFFIX,a1869.v.akamai.net
 ##DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,eurosport-dlvr-ott-vod.akamaized.net
-USER-AGENT,Eurosport*
+#USER-AGENT,Eurosport*
 
 #DRM
 DOMAIN-KEYWORD,live-nl-prod
