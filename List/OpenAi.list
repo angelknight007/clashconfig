@@ -1,6 +1,7 @@
 PROCESS-NAME,com.poe.android
 PROCESS-NAME,com.anthropic.claude
 PROCESS-NAME,com.openai.chatgpt
+PROCESS-NAME,ai.perplexity.app.android
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
@@ -27,5 +28,6 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,perplexity.ai
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
