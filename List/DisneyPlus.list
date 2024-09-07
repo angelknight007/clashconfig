@@ -1,6 +1,6 @@
 # 内容：DisneyPlus
-USER-AGENT,Disney*
-USER-AGENT,Disney+*
+#USER-AGENT,Disney*
+#USER-AGENT,Disney+*
 PROCESS-NAME,com.disney.disneyplus
 DOMAIN,cdn.registerdisney.go.com
 #DOMAIN,disney.api.edge.bamgrid.com
