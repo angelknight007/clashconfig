@@ -29,6 +29,27 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,perplexity.ai
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
+
+# Claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+IP-CIDR,160.79.104.0/23,no-resolve
+IP-CIDR6,2607:6bc0::/48,no-resolve
+
+# JetBrains AI
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+
+# Meta AI
+DOMAIN,imagine.meta.com
+DOMAIN-SUFFIX,meta.ai
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+
+# Mistral AI
+DOMAIN,chat.mistral.ai
+DOMAIN,console.mistral.ai
+DOMAIN-SUFFIX,mistral.ai
