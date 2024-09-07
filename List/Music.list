@@ -44,7 +44,7 @@ IP-CIDR,99.81.97.56/32,no-resolve
 PROCESS-NAME,com.qobuz.music
 
 #Deezer
-USER-AGENT,Deezer*
+#USER-AGENT,Deezer*
 PROCESS-NAME,deezer.android.app
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
@@ -72,17 +72,17 @@ IP-CIDR,35.186.224.47/32,no-resolve
 PROCESS-NAME,com.spotify.music
 
 # JOOX
-USER-AGENT,JOOX*
-USER-AGENT,WeMusic*
+#USER-AGENT,JOOX*
+#USER-AGENT,WeMusic*
 DOMAIN-KEYWORD,jooxweb-api
 DOMAIN-SUFFIX,joox.com
 
 # Pandora
-USER-AGENT,Pandora*
+#USER-AGENT,Pandora*
 DOMAIN-SUFFIX,pandora.com
 
 # SoundCloud
-USER-AGENT,SoundCloud*
+#USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
