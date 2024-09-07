@@ -60,5 +60,10 @@ IP-CIDR,216.58.192.0/19,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
 IP-CIDR,216.239.32.0/19,no-resolve
 DOMAIN-SUFFIX,googleusercontent.com
+PROCESS-NAME,com.google.android.gm
+PROCESS-NAME,com.android.vending
+PROCESS-NAME,com.google.android.googlequicksearchbox
+PROCESS-NAME,com.google.android.apps.googlevoice
+PROCESS-NAME,com.google.android.apps.translate
 #Google One
 #IP-CIDR,136.22.0.0/16
