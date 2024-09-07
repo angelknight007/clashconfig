@@ -2,6 +2,7 @@ PROCESS-NAME,com.poe.android
 PROCESS-NAME,com.anthropic.claude
 PROCESS-NAME,com.openai.chatgpt
 PROCESS-NAME,ai.perplexity.app.android
+PROCESS-NAME,com.microsoft.copilot
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
