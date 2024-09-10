@@ -33,3 +33,5 @@ DOMAIN-SUFFIX,ipapi.co
 
 # BrowserScan
 DOMAIN,ip-scan.adspower.net
+DOMAIN-SUFFIX,browserscan.net
+DOMAIN-SUFFIX,edns.ip-api.com
