@@ -66,5 +66,6 @@ PROCESS-NAME,com.google.android.googlequicksearchbox
 PROCESS-NAME,com.google.android.apps.googlevoice
 PROCESS-NAME,com.google.android.apps.translate
 PROCESS-NAME,com.google.android.apps.bard
+PROCESS-NAME,com.google.android.apps.chromecast.app
 #Google One
 #IP-CIDR,136.22.0.0/16
