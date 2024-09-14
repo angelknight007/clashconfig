@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,nl
 DOMAIN-SUFFIX,se
 DOMAIN-SUFFIX,7xruistream.com
 DOMAIN-SUFFIX,enkalitelihizmet333.com
+DOMAIN-SUFFIX,dyn.sport
 
 #eurosport
 PROCESS-NAME,com.eurosport
