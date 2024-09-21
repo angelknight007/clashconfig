@@ -94,13 +94,6 @@ DOMAIN-SUFFIX,twitch-ext.rootonline.de
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 
-# ChatGPT
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,deepl.com
-DOMAIN-SUFFIX,sentry.io
 
 DOMAIN-KEYWORD,dfwlive-v1
 #DOMAIN-SUFFIX,9c9media.ca
