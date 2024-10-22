@@ -25,7 +25,7 @@ DOMAIN-SUFFIX,surfsharkdns.com
 DOMAIN-SUFFIX,pixelscan.net
 
 # PING0
-DOMAIN,ipv4.ping0.cc
+DOMAIN-SUFFIX,ping0.cc
 DOMAIN,ipv6.ping0.cc
 
 # IPAPI.CO
