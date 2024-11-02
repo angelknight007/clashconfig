@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,gaoqing.fm
+DOMAIN-SUFFIX,socpk.com
 # 微信
 IP-CIDR,101.32.104.4/32,no-resolve
 IP-CIDR,101.32.104.41/32,no-resolve
