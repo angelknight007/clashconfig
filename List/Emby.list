@@ -12,8 +12,8 @@ DOMAIN-SUFFIX,ssky.me
 DOMAIN-SUFFIX,aaa.ax
 DOMAIN-SUFFIX,charontv.com
 #DOMAIN-SUFFIX,emby.p-p.men
-IP-CIDR,142.54.186.202/32
-IP-CIDR,198.204.247.154/32
+IP-CIDR,142.54.186.202/32,no-resolve
+IP-CIDR,198.204.247.154/32,no-resolve
 DOMAIN-SUFFIX,blueseamusics.com
 DOMAIN-SUFFIX,jiasu.ga
 DOMAIN-SUFFIX,poloemby.xyz
