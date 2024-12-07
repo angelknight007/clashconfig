@@ -131,6 +131,7 @@ DOMAIN-SUFFIX,exodus-1.rocks
 IP-CIDR,45.141.56.0/24,no-resolve
 IP-CIDR,124.19.17.0/24,no-resolve
 IP-CIDR,188.93.197.0/24,no-resolve
+IP-CIDR,161.123.155.0/24,no-resolve
 
 #p13
 DOMAIN-SUFFIX,ktv.codes
