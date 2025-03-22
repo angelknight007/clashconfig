@@ -31,7 +31,6 @@ DOMAIN-SUFFIX,brightcove.com
 DOMAIN-SUFFIX,prod.boltdns.net
 
 # > U-NEXT
-PROCESS-NAME,jp.unext.mediaplayer
 DOMAIN-SUFFIX,unext.jp
 DOMAIN-SUFFIX,nxtv.jp
 // DOMAIN,streamd01ca-nxtv-jp.akamaized.net
