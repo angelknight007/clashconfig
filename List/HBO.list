@@ -1,6 +1,5 @@
 #USER-AGENT,HBO%20NOW*
 #USER-AGENT,HBOMAX*
-PROCESS-NAME,com.wbd.stream
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbomax.com
@@ -9,7 +8,6 @@ DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,cinemax.com
 DOMAIN-SUFFIX,maxgo.com
 DOMAIN-SUFFIX,discomax.com
-PROCESS-NAME,com.hbo.hbonow
 DOMAIN-SUFFIX,arkoselabs.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,media.h264.io
