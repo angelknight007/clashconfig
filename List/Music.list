@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tidalhifi.com
 DOMAIN-SUFFIX,wimpmusic.com
-PROCESS-NAME,com.aspiro.tidal
+
 
 #Qobuz
 DOMAIN-SUFFIX,cobeuz.fr
@@ -41,11 +41,10 @@ DOMAIN-SUFFIX,streaming-qobuz-sec.akamaized.net
 DOMAIN-KEYWORD,streaming-qobuz
 IP-CIDR,52.211.1.180/32,no-resolve
 IP-CIDR,99.81.97.56/32,no-resolve
-PROCESS-NAME,com.qobuz.music
+
 
 #Deezer
 #USER-AGENT,Deezer*
-PROCESS-NAME,deezer.android.app
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
 
@@ -69,7 +68,7 @@ DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,spotify.com
 IP-CIDR,35.186.224.47/32,no-resolve
-PROCESS-NAME,com.spotify.music
+
 
 # JOOX
 #USER-AGENT,JOOX*
