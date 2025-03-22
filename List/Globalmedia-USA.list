@@ -53,7 +53,7 @@ DOMAIN-SUFFIX,nbcuott.com
 DOMAIN-KEYWORD,nbcstreaming
 DOMAIN-KEYWORD,peacockvod
 DOMAIN-KEYWORD,peacocktv
-PROCESS-NAME,com.peacocktv.peacockandroid
+
 
 # NAME: CNN
 DOMAIN-SUFFIX,cnn.com
@@ -71,7 +71,7 @@ DOMAIN-SUFFIX,hulu.sc.omtrdc.net
 DOMAIN-SUFFIX,huluad.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
-PROCESS-NAME,com.hulu.plus
+
 
 # EncoreTVB
 #USER-AGENT,encoreTVB*
@@ -106,5 +106,4 @@ DOMAIN-SUFFIX,nhl.com
 DOMAIN-SUFFIX,mlb.com
 DOMAIN-SUFFIX,nfl.com
 DOMAIN-KEYWORD,us-east-1
-PROCESS-NAME,com.apple.android.music.classical
 DOMAIN,live.ll.ww.aiv-cdn.net
