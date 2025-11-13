@@ -83,6 +83,9 @@ IP-CIDR,185.234.217.0/24,no-resolve
 IP-CIDR,212.18.115.0/24,no-resolve
 IP-CIDR,79.143.17.0/24,no-resolve
 #others
+DOMAIN-SUFFIX,haycker.eu.org
+
+
 #stalker
 IP-CIDR,188.93.236.0/24,no-resolve
 IP-CIDR,188.93.237.0/24,no-resolve
