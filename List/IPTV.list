@@ -137,6 +137,7 @@ IP-CIDR,124.19.17.0/24,no-resolve
 IP-CIDR,188.93.197.0/24,no-resolve
 IP-CIDR,161.123.155.0/24,no-resolve
 
+DOMAIN-SUFFIX,i9.ee
 #p13
 DOMAIN-SUFFIX,ktv.codes
 DOMAIN-SUFFIX,p13.cx
