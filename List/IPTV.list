@@ -130,6 +130,7 @@ DOMAIN-SUFFIX,britishtv.org
 DOMAIN-SUFFIX,dns20.xyz
 DOMAIN-SUFFIX,ddnsking.com
 DOMAIN-SUFFIX,ivue.co
+DOMAIN-SUFFIX,dpdns.org
 
 DOMAIN-SUFFIX,exodus-1.rocks
 IP-CIDR,45.141.56.0/24,no-resolve
