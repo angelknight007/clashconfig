@@ -149,3 +149,5 @@ DOMAIN-SUFFIX,thebr1ghtbox.xyz
 DOMAIN-SUFFIX,chick.house
 DOMAIN-SUFFIX,ptv.cx
 DOMAIN-SUFFIX,p13.pro
+
+IP-CIDR,146.56.137.241/32,no-resolve
