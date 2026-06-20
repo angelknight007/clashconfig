@@ -153,3 +153,6 @@ DOMAIN-SUFFIX,ptv.cx
 DOMAIN-SUFFIX,p13.pro
 
 IP-CIDR,146.56.137.241/32,no-resolve
+
+#ben
+IP-CIDR,193.108.118.153/32,no-resolve
